@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "address-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://Allmaren.github.io/address-form/",
   "dependencies": {
     "@googlemaps/extended-component-library": "^0.6.11",
     "@testing-library/jest-dom": "^5.16.3",
