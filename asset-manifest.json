@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/address-form/static/css/main.a4d48c29.css",
+    "main.css": "/address-form/static/css/main.31bb72e4.css",
     "main.js": "/address-form/static/js/main.b3f39bbc.js",
     "index.html": "/address-form/index.html",
-    "main.a4d48c29.css.map": "/address-form/static/css/main.a4d48c29.css.map",
+    "main.31bb72e4.css.map": "/address-form/static/css/main.31bb72e4.css.map",
     "main.b3f39bbc.js.map": "/address-form/static/js/main.b3f39bbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4d48c29.css",
+    "static/css/main.31bb72e4.css",
     "static/js/main.b3f39bbc.js"
   ]
 }
