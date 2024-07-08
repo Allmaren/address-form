@@ -6,7 +6,15 @@
   gap: 10px;
 }
 
+.hint {
+  text-align: center;
+}
+
 .result {
   height: 1rem;
   padding: 8px;
+}
+
+gmp-map {
+  height: 199px;
 }
