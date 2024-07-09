@@ -1,0 +1,42 @@
+[
+  {
+    "longText": "12",
+    "shortText": "12",
+    "types": ["street_number"]
+  },
+  {
+    "longText": "Franciszka Wężyka",
+    "shortText": "Franciszka Wężyka",
+    "types": ["route"]
+  },
+  {
+    "longText": "Czyżyny",
+    "shortText": "Czyżyny",
+    "types": ["sublocality_level_1", "sublocality", "political"]
+  },
+  {
+    "longText": "Kraków",
+    "shortText": "Kraków",
+    "types": ["locality", "political"]
+  },
+  {
+    "longText": "Powiat Kraków",
+    "shortText": "Powiat Kraków",
+    "types": ["administrative_area_level_2", "political"]
+  },
+  {
+    "longText": "Województwo małopolskie",
+    "shortText": "Województwo małopolskie",
+    "types": ["administrative_area_level_1", "political"]
+  },
+  {
+    "longText": "Польща",
+    "shortText": "PL",
+    "types": ["country", "political"]
+  },
+  {
+    "longText": "31-580",
+    "shortText": "31-580",
+    "types": ["postal_code"]
+  }
+]
